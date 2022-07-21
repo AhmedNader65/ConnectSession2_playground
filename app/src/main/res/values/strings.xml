@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="hello_fragment_a">Hello Fragment A</string>
+    <string name="hello_fragment_b">Hello Fragment B</string>
+</resources>
